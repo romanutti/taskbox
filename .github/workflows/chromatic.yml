@@ -18,5 +18,5 @@ jobs:
         # Options required for Chromatic's GitHub Action
         with:
           #👇 Chromatic projectToken, see https://storybook.js.org/tutorials/intro-to-storybook/angular/en/deploy/ to obtain it
-          projectToken: ${{ secrets.c0fb193166d5 }}
+          projectToken: c0fb193166d5
           token: ${{ secrets.GITHUB_TOKEN }}
